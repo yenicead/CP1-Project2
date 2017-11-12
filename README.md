@@ -1,1 +1,3 @@
-# CP1-Project2
+# Project Description
+	In this project, we implement an Android application called HCoder and a server called HServer for transmission of compressed text files. For compression we used Huffman Coding.
+	We connected Android devices through a HTTP server. In this project file transfers can be done from an Android device to server or to another Android device. When a user wants to transfer a file he/she starts the HCoder application and browse and select the file. Then “Hcoder” will encode it with Huffman coding and asks for receiving username. Receiver(server or client) will receive compressed file and decode it with Huffman Coding.
